@@ -1,0 +1,12 @@
+C:\Users\alexander.leon\Documents\Visual Studio 2017\Projects\LargeStringComparer\LargeStringComparer\obj\Debug\LargeStringComparer.Form1.resources
+C:\Users\alexander.leon\Documents\Visual Studio 2017\Projects\LargeStringComparer\LargeStringComparer\obj\Debug\LargeStringComparer.Properties.Resources.resources
+C:\Users\alexander.leon\Documents\Visual Studio 2017\Projects\LargeStringComparer\LargeStringComparer\obj\Debug\LargeStringComparer.csproj.GenerateResource.Cache
+C:\Users\alexander.leon\Documents\Visual Studio 2017\Projects\LargeStringComparer\LargeStringComparer\bin\Debug\LargeStringComparer.exe.config
+C:\Users\alexander.leon\Documents\Visual Studio 2017\Projects\LargeStringComparer\LargeStringComparer\bin\Debug\LargeStringComparer.exe
+C:\Users\alexander.leon\Documents\Visual Studio 2017\Projects\LargeStringComparer\LargeStringComparer\bin\Debug\LargeStringComparer.pdb
+C:\Users\alexander.leon\Documents\Visual Studio 2017\Projects\LargeStringComparer\LargeStringComparer\obj\Debug\LargeStringComparer.csprojResolveAssemblyReference.cache
+C:\Users\alexander.leon\Documents\Visual Studio 2017\Projects\LargeStringComparer\LargeStringComparer\obj\Debug\LargeStringComparer.exe
+C:\Users\alexander.leon\Documents\Visual Studio 2017\Projects\LargeStringComparer\LargeStringComparer\obj\Debug\LargeStringComparer.pdb
+C:\Users\awleo\Documents\Visual Studio 2015\Projects\LargeStringComparer\LargeStringComparer\bin\Debug\LargeStringComparer.exe.config
+C:\Users\awleo\Documents\Visual Studio 2015\Projects\LargeStringComparer\LargeStringComparer\obj\Debug\LargeStringComparer.exe
+C:\Users\awleo\Documents\Visual Studio 2015\Projects\LargeStringComparer\LargeStringComparer\obj\Debug\LargeStringComparer.pdb
